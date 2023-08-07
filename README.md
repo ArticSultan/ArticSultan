@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArticSultan
-- 👀 I’m interested in learnning, coding, and music
-- 🌱 I’m currently learning Embedded Sysems Software Engineering
+- 👀 I’m interested in learning, coding, and music
+- 🌱 I’m currently learning Embedded Systems Software Engineering, Unix-based Systems and C
 - 💞️ I’m looking to collaborate on Embedded Systems and C projects
 - 📫 How to reach me ...
 -     Email: TheArticSultan@protonmail.com
